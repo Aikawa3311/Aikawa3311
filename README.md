@@ -1,6 +1,9 @@
-### Hi there 👋
+![kitten](https://github.com/Aikawa3311/GeometryProcessing/blob/master/raycast/kitten_highreso.gif)
+![xyzrgb_dragon](https://github.com/Aikawa3311/GeometryProcessing/blob/master/raycast/xyzrgb_dragon.gif)
 
 <!--
+### Hi there 👋
+
 **Aikawa3311/Aikawa3311** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
