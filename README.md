@@ -1,4 +1,4 @@
-![kitten](https://github.com/Aikawa3311/GeometryProcessing/blob/master/raycast/kitten_highreso.gif)
+<!-- ![kitten](https://github.com/Aikawa3311/GeometryProcessing/blob/master/raycast/kitten_highreso.gif) -->
 ![xyzrgb_dragon](https://github.com/Aikawa3311/GeometryProcessing/blob/master/raycast/xyzrgb_dragon.gif)
 
 <!--
