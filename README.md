@@ -1,5 +1,5 @@
 <!-- ![kitten](https://github.com/Aikawa3311/GeometryProcessing/blob/master/raycast/kitten_highreso.gif) -->
-![xyzrgb_dragon](https://github.com/Aikawa3311/GeometryProcessing/blob/master/raycast/xyzrgb_dragon.gif)
+![xyzrgb_dragon](https://github.com/Aikawa3311/Aikawa3311/blob/main/xyzrgb_dragon_t.gif)
 
 <!--
 ### Hi there 👋
